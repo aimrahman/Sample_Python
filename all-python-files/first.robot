@@ -1,3 +1,3 @@
-*** Test Cases ***
+*** Test Cases *****************
 MyFirstTest
-    Log     Welcome to RobotFramework
+    Log     Welcome to RobotFramework Project
