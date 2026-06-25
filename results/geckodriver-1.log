@@ -1,0 +1,14 @@
+1777298691427	geckodriver	INFO	Listening on 127.0.0.1:63884
+1777298694525	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NVDSREDDY\\AppData\\Local\\Temp\\rust_mozprofileAGY6Su"
+Dynamically enable window occlusion 0
+1777298694846	Marionette	INFO	Marionette enabled
+1777298694943	Marionette	INFO	Listening on port 58154
+WebDriver BiDi listening on ws://127.0.0.1:63885
+Read port: 58154
+1777298695127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+console.error: AboutNewTabResourceMapping: "train-hop add-on install failure: Error: Unexpected download cancelled while downloading xpi from https://archive.mozilla.org/pub/system-addons/newtab/newtab-151.2.0-build1/newtab.xpi"
+1777298702024	Marionette	INFO	Stopped listening on port 58154
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.

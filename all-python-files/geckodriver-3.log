@@ -1,0 +1,67 @@
+1776431505484	geckodriver	INFO	Listening on 127.0.0.1:58742
+1776431508611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58743" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\NVDSREDDY\\AppData\\Local\\Temp\\rust_mozprofilehkHeG3"
+Dynamically enable window occlusion 0
+1776431509036	Marionette	INFO	Marionette enabled
+1776431509165	Marionette	INFO	Listening on port 61058
+WebDriver BiDi listening on ws://127.0.0.1:58743
+Read port: 61058
+1776431509363	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: "Experiment visual-card-updates has unknown featureId: newtabRefinedCardsLayout"
+JavaScript error: , line 0: SyntaxError: JSON.parse: expected double-quoted property name at line 1 column 153 of the JSON data
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto, line 1: WebGL context was lost.
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto, line 1: WebGL context was lost.
+JavaScript warning: https://demo.nopcommerce.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js, line 1: Script terminated by timeout at:
+c@https://demo.nopcommerce.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9349
+
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto, line 1: Script terminated by timeout at:
+Je@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:228751
+Jl@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:175672
+Jv@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:96356
+Jl@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:175672
+Jv@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:96356
+Jl@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:175672
+Jv@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:96356
+Jl@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:175672
+Jv@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:96356
+Jl@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:175672
+Jv@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:96379
+Jl@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:175672
+Jv@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:96356
+Jl@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:175672
+Jv@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:96356
+Jl@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/turnstile/f/ov2/av0/rch/fjs2u/0x4AAAAAAADnPIDROrmt1Wwj/dark/fbE/new/normal?lang=auto:1:175672
+
+1776431541662	Marionette	INFO	Stopped listening on port 61058
+JavaScript error: resource://gre/modules/PrivateBrowsingUtils.sys.mjs, line 19: TypeError: can't access property "isChromeWindow", aWindow is null
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  main/urlbar-persisted-search-terms Signature failed  [Exception... "<no message>"  nsresult: "0x8046001e (<unknown>)"  location: "JS frame :: resource://gre/modules/ServiceRequest.sys.mjs :: open :: line 126"  data: no]
+console.error: services.settings: 
+Object
+  - prototype Object
+    - columnNumber = 11
+    - data = null
+    - filename = resource://gre/modules/ServiceRequest.sys.mjs
+    - lineNumber = 126
+    - location = {"name":"open","filename":"resource://gre/modules/ServiceRequest.sys.mjs","sourceId":27,"lineNumber":126,"columnNumber":11,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch/<","sourceId":26,"lineNumber":284,"columnNumber":15,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/Utils.sys.mjs","name":"fetch","sourceId":26,"lineNumber":235,"columnNumber":12,"asyncCause":null,"asyncCaller":null,"caller":{"filename":"resource://services-settings/RemoteSettingsClient.sys.mjs","name":"validateCollectionSignature","sourceId":24,"lineNumber":1104,"columnNumber":49,"asyncCause":null,"asyncCaller":null,"caller":null,"formattedStack":"validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1104:49\n","nativeSavedFrame":{}},"formattedStack":"fetch@resource://services-settings/Utils.sys.mjs:235:12\nvalidateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1104:49\n","nativeSavedFrame":{}},"formattedStack":"fetch/<@resource://services-settings/Utils.sys.mjs:284:15\nfetch@resource://services-settings/Utils.sys.mjs:235:12\nvalidateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1104:49\n","nativeSavedFrame":{}},"formattedStack":"open@resource://gre/modules/ServiceRequest.sys.mjs:126:11\nfetch/<@resource://services-settings/Utils.sys.mjs:284:15\nfetch@resource://services-settings/Utils.sys.mjs:235:12\nvalidateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1104:49\n","nativeSavedFrame":{}}
+    - message = 
+    - name = 
+    - result = 2152071198
+    - stack = open@resource://gre/modules/ServiceRequest.sys.mjs:126:11|fetch/<@resource://services-settings/Utils.sys.mjs:284:15|fetch@resource://services-settings/Utils.sys.mjs:235:12|validateCollectionSignature@resource://services-settings/RemoteSettingsClient.sys.mjs:1104:49|
+  - prototype Object
+console.warn: TopSitesFeed: Failed to fetch data from MARS server: NetworkError when attempting to fetch resource.
+console.warn: services.settings: main/search-config-icons sync interrupted by shutdown
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.warn: services.settings: main/vpn-serverlist sync interrupted by shutdown
+console.warn: services.settings: main/fingerprinting-protection-overrides sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/devtools-devices sync interrupted by shutdown
+console.warn: services.settings: main/remote-permissions sync interrupted by shutdown
+console.warn: services.settings: main/doh-providers sync interrupted by shutdown
+console.warn: services.settings: main/newtab-frecency-boosted-sponsors sync interrupted by shutdown
+console.warn: services.settings: main/newtab-wallpapers-v2 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/websites-with-shared-credential-backends getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+JavaScript error: resource://gre/modules/Sqlite.sys.mjs, line 1128: Error: Connection is not open.

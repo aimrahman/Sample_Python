@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 7.4.2 (Python 3.14.4 on win32)" generated="2026-04-27T19:42:13.451168" rpa="false" schemaversion="5">
+<suite id="s1" name="Logintest" source="D:\PYTHON ROBOTFRAMEWORK SOFTWARE AND PROJECTS\python_robotframework_project\pythonpractice\logintest.robot">
+<test id="s1-t1" name="Example Test" line="9">
+<kw name="Sleep" owner="BuiltIn">
+<msg time="2026-04-27T19:42:23.721161" level="INFO">Slept 10 seconds.</msg>
+<arg>time_=10s</arg>
+<doc>Pauses the test executed for the given time.</doc>
+<status status="PASS" start="2026-04-27T19:42:13.720012" elapsed="10.001525"/>
+</kw>
+<kw name="Open Browser" owner="SeleniumLibrary">
+<msg time="2026-04-27T19:42:23.723458" level="INFO">Opening browser 'browser' to base url 'url'.</msg>
+<msg time="2026-04-27T19:42:23.723599" level="INFO">Cannot capture screenshot because no browser is open.</msg>
+<msg time="2026-04-27T19:42:23.723897" level="FAIL">ValueError: browser is not a supported browser.</msg>
+<arg>url</arg>
+<arg>browser</arg>
+<doc>Opens a new browser instance to the optional ``url``.</doc>
+<status status="FAIL" start="2026-04-27T19:42:23.722748" elapsed="0.006995">ValueError: browser is not a supported browser.</status>
+</kw>
+<kw name="Delete All Cookies" owner="SeleniumLibrary">
+<doc>Deletes all cookies.</doc>
+<status status="NOT RUN" start="2026-04-27T19:42:23.755836" elapsed="0.000060"/>
+</kw>
+<kw name="Maximize Browser Window" owner="SeleniumLibrary">
+<doc>Maximizes current browser window.</doc>
+<status status="NOT RUN" start="2026-04-27T19:42:23.756304" elapsed="0.000142"/>
+</kw>
+<kw name="Close Browser" owner="SeleniumLibrary">
+<doc>Closes the current browser.</doc>
+<status status="NOT RUN" start="2026-04-27T19:42:23.756717" elapsed="0.000027"/>
+</kw>
+<status status="FAIL" start="2026-04-27T19:42:13.718158" elapsed="10.038951">ValueError: browser is not a supported browser.</status>
+</test>
+<status status="FAIL" start="2026-04-27T19:42:13.452744" elapsed="10.305158"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat name="Logintest" id="s1" pass="0" fail="1" skip="0">Logintest</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
